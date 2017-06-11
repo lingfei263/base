@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">base</string>
+
+    <string name="open">打开菜单</string>
+    <string name="close">关闭菜单</string>
+    <string name="customactivityoncrash_error_activity_error_occurred_explanation">该应用发生了一个异常</string>
+    <string name="customactivityoncrash_error_activity_unknown_exception">Unknown exception</string>
+    <string name="customactivityoncrash_error_activity_restart_app">重启应用</string>
+    <string name="customactivityoncrash_error_activity_close_app">关闭应用</string>
+    <string name="customactivityoncrash_error_activity_error_details">异常详情</string>
+    <string name="customactivityoncrash_error_activity_error_details_title">异常详情</string>
+    <string name="customactivityoncrash_error_activity_error_details_close">关闭</string>
+</resources>
