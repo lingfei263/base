@@ -38,7 +38,6 @@ dependencies {
     compile 'com.orhanobut:logger:1.15'
     compile 'com.github.lingfei263:dialog:1.0.0'
     compile 'com.github.lingfei263:edit_validate:1.1.0'
-    annotationProcessor 'org.greenrobot:eventbus-annotation-processor:3.0.1'
     compile 'org.greenrobot:eventbus:3.0.0'
     compile 'cat.ereza:customactivityoncrash:1.2.0'
 
