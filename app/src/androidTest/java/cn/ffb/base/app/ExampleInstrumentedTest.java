@@ -1,4 +1,4 @@
-package cn.ffb.base;
+package cn.ffb.base.app;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("cn.ffb.base", appContext.getPackageName());
+        assertEquals("cn.ffb.base.app", appContext.getPackageName());
     }
 }

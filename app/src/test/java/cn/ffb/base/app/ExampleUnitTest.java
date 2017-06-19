@@ -1,4 +1,4 @@
-package cn.ffb.base;
+package cn.ffb.base.app;
 
 import org.junit.Test;
 
