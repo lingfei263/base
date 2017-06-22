@@ -36,7 +36,7 @@ dependencies {
     }
     compile 'com.jakewharton.timber:timber:4.3.1'
     compile 'com.orhanobut:logger:1.15'
-    compile 'com.github.lingfei263:dialog:1.0.0'
+    compile 'com.github.lingfei263:dialog:1.1.0'
     compile 'com.github.lingfei263:edit_validate:1.1.0'
     compile 'org.greenrobot:eventbus:3.0.0'
     compile 'cat.ereza:customactivityoncrash:1.2.0'
